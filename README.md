@@ -48,7 +48,7 @@ An AI-enhanced GitHub repository discovery platform that helps developers find, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/open-source-explorer.git
+git clone https://github.com/trdp2019/Explore-Github-Insight.git
 cd open-source-explorer
 
 # Install dependencies
@@ -199,12 +199,10 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - [Tailwind CSS](https://tailwindcss.com/) for styling system
 - [Lucide](https://lucide.dev/) for icons
 
-## 📃 License
+## 📞 Support
 
-MIT License. Feel free to use and modify this project.
+For support, email tridip@googleit.in
 
 ---
 
-## 🙋‍♂️ Author
-
-**Made with ❤️ by [Tridip](https://github.com/trdp2019) for the open source community**
+**Built with ❤️ for the open source community**
