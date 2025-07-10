@@ -167,7 +167,15 @@ const AppLayout: React.FC = () => {
               <span className="flex items-center gap-2">💡 Smart Suggestions</span>
             </div>
             <div className="text-sm text-slate-200 font-medium">
-              Made with ❤️ by TRIDIP
+              Made with ❤️ by{' '}
+              <a
+                href="https://googleit.in"
+                className="underline hover:text-white transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                TRIDIP
+              </a>
             </div>
           </div>
         </div>
